@@ -1,4 +1,4 @@
-# EncoderDecoder-Model-for-Blind-Source-Separation-task
+# Encoder-Decoder Model for a Blind Source Separation task
 
 ## Overview
 This project implements a encoder-decoder solution for blind source separation of combined images. The goal is to separate a composite image, created by adding two distinct images from different datasets (MNIST and Fashion-MNIST), back into its original components without any preprocessing.
